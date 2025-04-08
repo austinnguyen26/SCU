@@ -1,0 +1,41 @@
+Austin Nguyen
+anguyen10@scu.edu
+CSEN 79 Lab 6
+
+Test Cases:
+
+1. Insert, List, Erase, List, Insert again, List
+Command: ./rostertest <lab3sampleinput.txt> lab6output.txt
+Running this will input 37 students initially, delete a specific 11 of them, and then insert another 17 students
+which results in a total of 43 students in the end
+
+**Note**
+Since we are using linked lists, there is no need for a resize() function because we just extend the list
+
+2. Insert Duplicate Names
+Command: ./rostertest <dupnames.txt> lab6output.txt
+This program will try to insert the same student twice, in which it will catch that there is already a student
+with the same ID in the roster, and will not insert the student a second time.
+
+
+3/4. Erase Student that does not exist | Erase from an empty List
+Command: ./rostertest <notstudent.txt> lab6output.txt
+This will try to delete an ID in a list that 1 is empty and therefore 2 the student does not
+exist yet. 
+
+5. Erasing a student from the Start, End, and Middle of the list
+Command: ./rostertest <deletefirstmiddlelast.txt> lab6output.txt
+This will insert the same set of 37 students from 'lab3sampleinput.txt' but will delete
+specifically the first student, A 3413623 Savannah Rider on Line 1, a student in the middle,
+A 6781220 Moussa Holcomb on Line 32, and the last student in the list, 
+A 7692938 Parizoda Olvera on Line 37, and reprint the list afterwards to show that the program 
+can handle redirecting both the head and tail pointers.
+
+Students that are deleted for Test Case 4:
+A 3413623 Savannah Rider on Line 1
+A 6781220 Moussa Holcomb on Line 32
+A 7692938 Parizoda Olvera on Line 37
+
+6. Ensuring Linked List is properly deleted
+Comamnd: ./rostertest <"any of the files above"> lab6output.txt
+Should print out "Linked List has been properly deleted" and jump to next line

@@ -1,0 +1,7 @@
+# Name: Austin Nguyen
+# Date: September 24, 2024
+# Title: Lab1 – Unit/Linux Commands and Basic Shell Programming
+# Description: This is a text file to describe observations when running lab1p1.sh without any errors or warnings
+
+I noticed after I changed the name of the User to the correct one, it ran without error. When running it displayed the path taken to the file that was ran.
+It recognized me, the "user" and then carried on with the rest of the execution, which then had me input 2 numbers and calculated the area based off those numbers.

@@ -1,0 +1,29 @@
+Austin Nguyen
+CSEN 177 Lab 4 Observations
+
+Step 1:
+
+When running the program several times, the output is not the same. This is for the same
+reason that one of the steps of last week's lab had an issue with printing. It was referencing
+the address of a variable as an argument instead of using a pointer that stays at the variable
+at all times as the argument.
+
+The variable passed in the argument of the go() function is a shared variable due to it being 
+declared as a staic variable. This means there is only 1 instance of i across every thread. 
+
+The compiler stores variable states in the data segment of the process, while thread IDs/other 
+local variables are stored within the stack of each thread individually.
+
+In the main() function, i is also a shared stated variable for the same reason, being declared
+as a static variable. Therefore, is also stored in the same place as the previous variable in the 
+go() function in the last question.
+
+Step 2:
+
+It printed out as expected, with the same bug, only without defining which thread was finished at what time.
+There seems to be a wide variety of outputs due to the thread that is sending is not printing out the correct
+i value. (So anywhere between 1-20)
+
+Step 3:
+Printed out 2 3x3 matrixes and multiplied them into a third matrix and printed the product. This process went
+well with basic threading to perform the matrix multiplication

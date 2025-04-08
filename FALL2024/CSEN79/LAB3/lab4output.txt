@@ -1,0 +1,117 @@
+1: ID:3413623 First Name: Savannah Last Name: Rider
+2: ID:6184953 First Name: Israel Last Name: Seay
+3: ID:5206281 First Name: Maryam Last Name: Whittaker
+4: ID:4445543 First Name: Bruno Last Name: Haddad
+5: ID:5214769 First Name: Armani Last Name: Lindberg
+6: ID:4789469 First Name: Jaslyn Last Name: Hoover
+7: ID:4231027 First Name: Andres Last Name: Ratcliff
+8: ID:7337401 First Name: Stephen Last Name: Corbin
+9: ID:3846009 First Name: Matilda Last Name: Finney
+10: ID:5605535 First Name: Issac Last Name: Lemons
+11: ID:7515575 First Name: Oliver Last Name: Muniz
+12: ID:6983035 First Name: Issac Last Name: Wyatt
+13: ID:4352812 First Name: Eve Last Name: Elam
+14: ID:7487480 First Name: Brody Last Name: Odell
+15: ID:6002675 First Name: Jordan Last Name: Rowe
+16: ID:3515951 First Name: Samiya Last Name: Purcell
+17: ID:5155225 First Name: Hendy Last Name: Winslow
+18: ID:5940738 First Name: Ismael Last Name: Grogan
+19: ID:5659490 First Name: Milan Last Name: Goddard
+20: ID:4301631 First Name: Jair Last Name: Smallwood
+21: ID:6407728 First Name: Hayden Last Name: Doss
+22: ID:4337681 First Name: Izaiah Last Name: Vick
+23: ID:6206360 First Name: Tiffany Last Name: Guy
+24: ID:7680334 First Name: Khaleesi Last Name: Brewster
+25: ID:5767266 First Name: Kailyn Last Name: Vines
+26: ID:6037934 First Name: Dilan Last Name: Hail
+27: ID:3483598 First Name: Sonny Last Name: Nadeau
+28: ID:4980786 First Name: Asher Last Name: Alston
+29: ID:3281091 First Name: Malaysia Last Name: Burke
+30: ID:5160499 First Name: Maximus Last Name: Santillan
+31: ID:7080394 First Name: Annie Last Name: Neely
+32: ID:6781220 First Name: Moussa Last Name: Holcomb
+33: ID:3434649 First Name: Addison Last Name: Chavez
+34: ID:6057966 First Name: Idy Last Name: Pantoja
+35: ID:7490441 First Name: Ace Last Name: Mcgregor
+36: ID:4138564 First Name: Zachariah Last Name: Gruber
+37: ID:7692938 First Name: Parizoda Last Name: Olvera
+Student, Idy Pantojawith ID, 6057966 has been removed from the roster.
+Student, Idy Pantojawith ID, 6057966 has been removed from the roster.
+Student, Parizoda Olverawith ID, 7692938 has been removed from the roster.
+Student, Parizoda Olverawith ID, 7692938 has been removed from the roster.
+Student, Issac Lemonswith ID, 5605535 has been removed from the roster.
+Student, Sonny Nadeauwith ID, 3483598 has been removed from the roster.
+Student, Izaiah Vickwith ID, 4337681 has been removed from the roster.
+Student, Samiya Purcellwith ID, 3515951 has been removed from the roster.
+Student, Ismael Groganwith ID, 5940738 has been removed from the roster.
+Student, Eve Elamwith ID, 4352812 has been removed from the roster.
+Student, Andres Ratcliffwith ID, 4231027 has been removed from the roster.
+1: ID:3413623 First Name: Savannah Last Name: Rider
+2: ID:6184953 First Name: Israel Last Name: Seay
+3: ID:5206281 First Name: Maryam Last Name: Whittaker
+4: ID:4445543 First Name: Bruno Last Name: Haddad
+5: ID:5214769 First Name: Armani Last Name: Lindberg
+6: ID:4231027 First Name: Andres Last Name: Ratcliff
+7: ID:7337401 First Name: Stephen Last Name: Corbin
+8: ID:5605535 First Name: Issac Last Name: Lemons
+9: ID:7515575 First Name: Oliver Last Name: Muniz
+10: ID:4352812 First Name: Eve Last Name: Elam
+11: ID:7487480 First Name: Brody Last Name: Odell
+12: ID:3515951 First Name: Samiya Last Name: Purcell
+13: ID:5940738 First Name: Ismael Last Name: Grogan
+14: ID:5659490 First Name: Milan Last Name: Goddard
+15: ID:4301631 First Name: Jair Last Name: Smallwood
+16: ID:4337681 First Name: Izaiah Last Name: Vick
+17: ID:6206360 First Name: Tiffany Last Name: Guy
+18: ID:7680334 First Name: Khaleesi Last Name: Brewster
+19: ID:5767266 First Name: Kailyn Last Name: Vines
+20: ID:3483598 First Name: Sonny Last Name: Nadeau
+21: ID:4980786 First Name: Asher Last Name: Alston
+22: ID:3281091 First Name: Malaysia Last Name: Burke
+23: ID:5160499 First Name: Maximus Last Name: Santillan
+24: ID:7080394 First Name: Annie Last Name: Neely
+25: ID:6057966 First Name: Idy Last Name: Pantoja
+26: ID:7692938 First Name: Parizoda Last Name: Olvera
+1: ID:3413623 First Name: Savannah Last Name: Rider
+2: ID:6184953 First Name: Israel Last Name: Seay
+3: ID:5206281 First Name: Maryam Last Name: Whittaker
+4: ID:4445543 First Name: Bruno Last Name: Haddad
+5: ID:5214769 First Name: Armani Last Name: Lindberg
+6: ID:4231027 First Name: Andres Last Name: Ratcliff
+7: ID:7337401 First Name: Stephen Last Name: Corbin
+8: ID:5605535 First Name: Issac Last Name: Lemons
+9: ID:7515575 First Name: Oliver Last Name: Muniz
+10: ID:4352812 First Name: Eve Last Name: Elam
+11: ID:7487480 First Name: Brody Last Name: Odell
+12: ID:3515951 First Name: Samiya Last Name: Purcell
+13: ID:5940738 First Name: Ismael Last Name: Grogan
+14: ID:5659490 First Name: Milan Last Name: Goddard
+15: ID:4301631 First Name: Jair Last Name: Smallwood
+16: ID:4337681 First Name: Izaiah Last Name: Vick
+17: ID:6206360 First Name: Tiffany Last Name: Guy
+18: ID:7680334 First Name: Khaleesi Last Name: Brewster
+19: ID:5767266 First Name: Kailyn Last Name: Vines
+20: ID:3483598 First Name: Sonny Last Name: Nadeau
+21: ID:4980786 First Name: Asher Last Name: Alston
+22: ID:3281091 First Name: Malaysia Last Name: Burke
+23: ID:5160499 First Name: Maximus Last Name: Santillan
+24: ID:7080394 First Name: Annie Last Name: Neely
+25: ID:6057966 First Name: Idy Last Name: Pantoja
+26: ID:7692938 First Name: Parizoda Last Name: Olvera
+27: ID:5787520 First Name: Miah Last Name: Wright
+28: ID:4996076 First Name: Cooper Last Name: Crum
+29: ID:7664206 First Name: Eddie Last Name: Archer
+30: ID:7814075 First Name: Bryce Last Name: Griggs
+31: ID:4601853 First Name: Mason Last Name: Mccabe
+32: ID:6625807 First Name: Carmelo Last Name: Mcclain
+33: ID:6137757 First Name: Lev Last Name: Cuevas
+34: ID:4181514 First Name: Neymar Last Name: Cosby
+35: ID:4827503 First Name: Zain Last Name: Hoang
+36: ID:7396176 First Name: Jaylee Last Name: Marlow
+37: ID:3934558 First Name: Anjali Last Name: Kopp
+38: ID:4410740 First Name: Emmanuella Last Name: Garland
+39: ID:7060922 First Name: Darius Last Name: Schulte
+40: ID:3958530 First Name: Jaylen Last Name: Lozano
+41: ID:3006598 First Name: Dalia Last Name: Robinson
+42: ID:4057500 First Name: Cayden Last Name: Barrios
+43: ID:7076935 First Name: Edward Last Name: Page

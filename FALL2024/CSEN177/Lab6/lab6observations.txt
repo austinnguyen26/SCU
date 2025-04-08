@@ -1,0 +1,31 @@
+Austin Nguyen
+CSEN 177L
+November 4 2024
+Lab 6 Observations:
+
+Steps:
+1. Launch VirtualBox (type virtualbox in terminal or open from "Applications")
+2. Select Expert Mode
+3. Click on the 3 dots on "Tools" and select "Networks"
+    a. Make sure that in Properties menu: DHCP server is enabled
+4. Select "File" and within the menu, "Import Appliance"
+5. Import a "Local File System" (should be set by default) and set destination as
+   "/local/Vbox/minix3-1-7.ova" *you need to manually type this out*
+6. Click "Start", it will then prompt you to login to the minix System
+    a. the default username is "root"
+7. Reset your password by typing "passwd" followed by your intended password and confirmation
+8. Type a few things into terminal to prepare for opening the kernel
+    a. tcpd.ftp in.ftpd &
+    b. ifconfig
+9. Go to host machine's file browser and select "Other Locations"
+10. In the Connect to Server box, type ftp://givenIPaddress
+    a. It will then prompt you to enter your username and password 
+11. Inside new directory (automatically sets you to /root which is empty),
+    type cd .., cd ..
+12. Search for where the Copyright 2010 Statement is being printed by using 
+    "grep "Copyright 2010" /dir/* 
+13. After finding the file, edit it, printing out your name and restart the MINIX machine
+    by typing "shutdown" and "exit"
+14. After that, start up custom MINIX (Enter 2) and the changes should pop up
+    (Your name should be printed out)
+15. After that, you can safely exit the MINIX machine. You are done!

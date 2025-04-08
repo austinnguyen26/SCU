@@ -1,0 +1,26 @@
+Austin Nguyen 
+anguyen10@scu.edu
+CSEN177L Lab 7
+Description: Changing scheduling in the kernel
+
+Changed the code in the pick_proc function in the proc.c file in the kernel.
+
+Code: 
+int random;
+for (q = 0; q < NR<SCHED_QUEUES; q++){
+    random = rand() %100;
+    if(random < 16){
+        continue;
+    }
+    if(!(rp = rdy_head[q])){
+        TRACE(VF_PICKPROC, printf("queue %d empty\n", q););
+        continue;
+    }
+    //rest of code
+}
+
+This slowed down when demo-ing ls /usr/src/* which was intended.
+This code makes the MINIX machine run slower due to implementing a 15% chance for the program
+to be able to run onto the next step.
+
+After inputting the code, restart and observe how the system ran (speed wise).

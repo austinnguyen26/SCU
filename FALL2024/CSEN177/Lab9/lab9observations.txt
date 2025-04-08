@@ -1,0 +1,15 @@
+Austin Nguyen
+CSEN177L Lab 9: File Performance Measurement
+Lab 9 Observations
+
+Step 2:
+Time increased with file size
+
+Step 3:
+Time decreased with buffer size
+
+Step 4:
+Time decreased with buffer size, however, increased a little bit compared to step 3 because of the extra writes
+
+Step 5:
+Took longer with more threads (Due to disk competition)

@@ -1,0 +1,20 @@
+Austin Nguyen
+10/19/2024
+Lab 3 Observation
+Description: Observations for Lab 3
+
+Part 1:
+Prints out the "ls" command in the terminal as expected
+Part 2/3:
+Prints out "ls" command again as expected
+Part 4:
+Prints out as expected
+Part 5:
+Had to write sleep() in the child function because my processes were printing 
+out of order, otherwise worked as expected, when inputting 'exit' the program
+stopped
+Part 6:
+Threads printed out of order, and in some cases the thread# was repeated
+Part 7:
+Initialized a temp pointer to pass as an argument to iterate through i and print
+correctly.

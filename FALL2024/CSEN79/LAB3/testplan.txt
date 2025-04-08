@@ -1,0 +1,29 @@
+Austin Nguyen Caroline Tapia
+anguyen10@scu.edu ctapia@scu.edu
+Test Plan for Lab 4:
+
+Test Cases:
+    - Duplicate Names
+    - Inputting more than 30 students
+    - Erasing students
+
+Command to Run:
+    ./rostertest <inputfile.txt> outputfile.txt
+
+Duplicate Names:
+We tested it by running the program with our duplicatename.txt file that had the same
+student's information (ID#, First/Last Name) and the output was that the student was
+already found in the list and the duplicate instance was not added to the roster.
+Very similarly to lab3, our program functioned in the same way
+
+Inputting more than 30 students | Erasing Students | Adding students again afterwards
+All of these tests are ran with the "lab3sampleinput.txt" file that was provided where
+it will initially try to add 37 students to the roster, which works by calling resize() to 
+increase the roster capacity by 1 each time until there are 37 students in the roster. Then,
+the sample inputs deletes students, relists them, and then adds more. All of these tests functioned
+with our implementation as intended.
+
+Note: erase.txt and overcap.txt are tests that overlap with lab3sampleinput.txt, we created these files
+to isolate the tests to ensure that each part of the lab was working correctly.
+
+All of these test cases ran correctly with our implementation of the functions.

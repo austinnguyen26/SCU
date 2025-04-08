@@ -1,0 +1,27 @@
+Step 3:
+Segmentation Fault
+
+Step 4:
+3000 ms delay
+Child Process and Parent Process took turns running, child process was quicker, seeing as
+the parent process had 9 instances to run through after the child process reached 99.
+500 ms delay
+Same occurence, the Child Process would run back to back before the Parent got the chance,
+and the Parent process had 9 instances to run after the child process finished
+5000 ms delay
+Same thing.
+
+Step 5:
+Hard to figure out the logic
+Nested If statements got messy
+I had to figure out why Parent pids of 1 were showing up (I needed an equal amount of 
+wait (NULL)'s for each child)
+
+Step 6:
+Pretty simple, compiled and ran without many issues
+Ran correctly as well, seeing as neither the parent or child process ran twice inbetween
+the time interval of the other function
+
+Step 7:
+Most of the code here was copied from the parts 1-4's code, so not many issues here.
+

@@ -1,0 +1,20 @@
+Austin Nguyen
+anguyen10@scu.edu
+CSEN 177 Lab 5 Observations
+
+Part 1 (threadSync.c)
+Runs as expected, Thread enters critical section, and then returns after the next thread
+enters critical section
+
+Part 2:
+Implementing with pthread mutex-es was pretty easy just replacing the lines that used
+semaphors. Ran as expected, outputting the same as part 1
+
+Part 3:
+Using mutex locks for consumer producer threads went as expected. Producer would produce
+an integer rand() %100 and consumer would consume that integer 
+
+Part 4:
+Using mutex locks for consumer producer threads went as expected. Producer would produce
+an integer rand() %100 and consumer would consume that integer. Added implementation to 
+keep track of how full buffer is with a variable
